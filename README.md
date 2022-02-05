@@ -79,34 +79,34 @@ I am also developing non-open-source bots, which cannot be listed here. 🤫
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&color=003B57)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&color=003B57)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=SpringBoot&color=61DAFB)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=SpringBoot&color=6db33f)
 
 ### Coding Environments & Cloud
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&color=61DAFB)
-![](https://img.shields.io/badge/Environment-Android-informational?style=flat&logo=Android&color=61DAFB)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&color=FFF)
+![](https://img.shields.io/badge/Environment-Android-informational?style=flat&logo=Android&color=3ddc84)
 ![](https://img.shields.io/badge/Environment-IOS-informational?style=flat&logo=IOS&color=FFFFFF)
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=Firebase&color=61DAFB)
-![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=Google&color=61DAFB)
+![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=Firebase&color=FFA611)
+![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=Google&color=4285f4)
 
 ### Favourite APIs
-![](https://img.shields.io/badge/API-Selenium-informational?style=flat&logo=Selenium&color=61DAFB)
-![](https://img.shields.io/badge/API-Puppeteer-informational?style=flat&logo=Puppeteer&color=61DAFB)
-![](https://img.shields.io/badge/API-SwiftyInsta-informational?style=flat&logo=Swift&color=61DAFB)
-![](https://img.shields.io/badge/API-Spacy-informational?style=flat&color=61DAFB)
-![](https://img.shields.io/badge/API-Numpy-informational?style=flat&logo=Numpy&color=61DAFB)
+![](https://img.shields.io/badge/API-Selenium-informational?style=flat&logo=Selenium&color=43b02a)
+![](https://img.shields.io/badge/API-Puppeteer-informational?style=flat&logo=Puppeteer&color=00D8A2)
+![](https://img.shields.io/badge/API-SwiftyInsta-informational?style=flat&logo=Swift&color=F05138)
+![](https://img.shields.io/badge/API-Spacy-informational?style=flat&color=FF82FF)
+![](https://img.shields.io/badge/API-Numpy-informational?style=flat&logo=Numpy&color=306998)
 
 ### Favourite Editors
-![](https://img.shields.io/badge/Cloud-Github-informational?style=flat&logo=Github&color=61DAFB)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VSCode&color=61DAFB)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&color=61DAFB)
-![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=AndroidStudio&color=61DAFB)
-![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=IntelliJIDEA&color=61DAFB)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&color=61DAFB)
+![](https://img.shields.io/badge/Cloud-Github-informational?style=flat&logo=Github&color=FFF)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VSCode&color=3295FE)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&color=fcf76b)
+![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=AndroidStudio&color=3ddc84)
+![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=IntelliJIDEA&color=eb5376)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&color=333)
 
 ### On Daily Usage
-![](https://img.shields.io/badge/Search-Stackoverflow-informational?style=flat&logo=Stackoverflow&color=61DAFB)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&color=61DAFB)
-![](https://img.shields.io/badge/Music-Spotify-informational?style=flat&logo=Spotify&color=61DAFB)
+![](https://img.shields.io/badge/Search-Stackoverflow-informational?style=flat&logo=Stackoverflow&color=F47F24)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&color=ee6e38)
+![](https://img.shields.io/badge/Music-Spotify-informational?style=flat&logo=Spotify&color=1db954)
 
 ### Github Stats
 [![Yu's github stats](https://github-readme-stats.vercel.app/api?username=ValentinAhrend&show_icons=true&theme=vue-dark)](https://github.com/ValentinAhrend)
