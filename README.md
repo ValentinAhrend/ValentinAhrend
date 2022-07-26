@@ -87,6 +87,7 @@ I am also developing non-open-source bots, which cannot be listed here. 🤫
 ![](https://img.shields.io/badge/Environment-IOS-informational?style=flat&logo=IOS&color=FFFFFF)
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=Firebase&color=FFA611)
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=Google&color=4285f4)
+![](https://img.shields.io/badge/Environment-Express.js-informational?style=flat&logo=Express&color=white)
 
 ### Favourite APIs
 ![](https://img.shields.io/badge/API-Selenium-informational?style=flat&logo=Selenium&color=43b02a)
@@ -96,17 +97,13 @@ I am also developing non-open-source bots, which cannot be listed here. 🤫
 ![](https://img.shields.io/badge/API-Numpy-informational?style=flat&logo=Numpy&color=306998)
 
 ### Favourite Editors
-![](https://img.shields.io/badge/Cloud-Github-informational?style=flat&logo=Github&color=FFF)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VSCode&color=3295FE)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&color=3295FE)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&color=fcf76b)
 ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=AndroidStudio&color=3ddc84)
 ![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=IntelliJIDEA&color=eb5376)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&color=333)
+![](https://img.shields.io/badge/Cloud-Github-informational?style=flat&logo=Github&color=FFF)
 
 ### On Daily Usage
 ![](https://img.shields.io/badge/Search-Stackoverflow-informational?style=flat&logo=Stackoverflow&color=F47F24)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&color=ee6e38)
 ![](https://img.shields.io/badge/Music-Spotify-informational?style=flat&logo=Spotify&color=1db954)
-
-### Github Stats
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=ValentinAhrend&show_icons=true&theme=vue-dark)](https://github.com/ValentinAhrend)
