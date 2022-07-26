@@ -69,7 +69,7 @@ I am also developing non-open-source bots, which cannot be listed here. 🤫
 - ZinqBot (upcoming project)
 
 ### I'm currently learning
-- React ⚛️ Web Development
+- R
 
 ### Coding Skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
