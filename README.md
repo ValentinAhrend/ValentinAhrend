@@ -39,7 +39,7 @@ I do love solving problems, handling situations and developing new software ✨
 
 <tr style="border-bottom: 2px solid grey">
 <td style="border:1px; width: 100px"><a href="https://idealabmatch.io"><img src="https://images.squarespace-cdn.com/content/v1/61c49fd474aa8f31fe7904b9/f3ddb2ff-c0c7-44ed-a271-7f7c9a087ec2/favicon.ico?format=500w" width="100px" align="top"></img></a></td>
-<td style="border:1px height: 7em;"><b>IdeaLab!Match</b> is a matching web app (frontend + backend) of IdeaLab!, which I developed using <a href="https://reactjs.org">React</a> and <a href="https://expressjs.com/">Express</a>.</td>
+<td style="border:1px height: 7em;"><b>IdeaLab!Match</b> is a matching web app (frontend + backend) from IdeaLab!, which I developed using <a href="https://reactjs.org">React</a> and <a href="https://expressjs.com/">Express</a>.</td>
 <td style="border:1px; height: 6em;"><a href="https://idealabmatch.io">IdeaLab!Match</a>, from <a href="https://idealab.io">IdeaLab!</a></td>
 
 </tr>
