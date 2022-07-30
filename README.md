@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi! I'm Valentin 👋</h3>
 
-<h2>I like to create Applications, Algorithms, Bots and Backend stuff.</h2>
+<h2>I like to create Applications, Algorithms, Websites and Backend stuff.</h2>
 
 
 Furthermore I design 🖌 my own applications and am actively interesed in creative computers.
