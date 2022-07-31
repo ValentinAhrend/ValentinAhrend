@@ -80,7 +80,7 @@ I am also developing non-open-source bots, which cannot be listed here. 🤫
 
 ### Coding Skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&color=764ABC&logo=java)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=IntelliJ IDEA&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=CC342D)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
