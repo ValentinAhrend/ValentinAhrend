@@ -82,7 +82,7 @@ I am also developing non-open-source bots, which cannot be listed here. 🤫
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=IntelliJ%20Idea&color=FFF)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=8643F7)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3673a7)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=CC342D)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&color=003B57)
