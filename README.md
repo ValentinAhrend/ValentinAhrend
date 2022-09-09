@@ -63,7 +63,10 @@ I do love solving problems, handling situations and developing new software ✨
 <tr><td>
 I developed a java algorithm to calculate the minimum count of rectangles needed to fill a random geometrical shape. It is called <a href="https://github.com/ValentinAhrend/minimal-rectangle-algo-rectx">RectX</a> and implemented as a Exsent Function</td></tr>
 <tr><td>
-I also programmed my small website using <a href="https://flutter.dev">Flutter</a> > <a href="https://valentinahrend.github.io">valentinahrend.github.io</a>
+I also programmed my <b>old</b> website using <a href="https://flutter.dev">Flutter</a> > <a href="https://valentinahrend.github.io">valentinahrend.github.io</a>
+</td></tr>
+<tr><td>
+As well as my new React Website <a href="https://valentinahrend.github.io">valentinahrend.com</a>
 </td></tr>
 <tr><td>
 I am also developing non-open-source bots, which cannot be listed here. 🤫
