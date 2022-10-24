@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ValentinAhrend/ValentinAhrend/main/logo.png" alt="logo">
+<img src="https://raw.githubusercontent.com/ValentinAhrend/ValentinAhrend/main/logo.png" alt="logo" href="https://valentinahrend.com">
 
 <h3 align="center">Hi! I'm Valentin 👋</h3>
 
@@ -15,7 +15,7 @@ I do love solving problems, handling situations and developing new software ✨
 <a href="https://stackoverflow.com/users/12961658/valispaceprogramming">![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-003311?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 <a href="https://valentinahrend123.medium.com/">![Medium](https://img.shields.io/badge/Medium-227722?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://instagram.com/vali.b05">![Instagram](https://img.shields.io/badge/vali.b05-115511.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://valentinahrend.github.io">![Google Chrome](https://img.shields.io/badge/Google%20Chrome-00AB00?style=for-the-badge&logo=GoogleChrome&logoColor=white)</a>
+<a href="https://valentinahrend.com">![Google Chrome](https://img.shields.io/badge/Google%20Chrome-00AB00?style=for-the-badge&logo=GoogleChrome&logoColor=white)</a>
 <br>
 
 
