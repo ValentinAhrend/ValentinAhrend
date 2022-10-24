@@ -39,8 +39,8 @@ I do love solving problems, handling situations and developing new software ✨
 
 <tr style="border-bottom: 2px solid grey">
 <td style="border:1px; width: 100px"><a href="https://idealabmatch.io"><img src="https://images.squarespace-cdn.com/content/v1/61c49fd474aa8f31fe7904b9/f3ddb2ff-c0c7-44ed-a271-7f7c9a087ec2/favicon.ico?format=500w" width="100px" align="top"></img></a></td>
-<td style="border:1px height: 7em;"><b>IdeaLab!Match</b> is a matching web app (frontend + backend) of IdeaLab!, which I developed using <a href="https://reactjs.org">React</a> and <a href="https://expressjs.com/">Express</a>.</td>
-<td style="border:1px; height: 6em;"><a href="https://idealabmatch.io">IdeaLab!Match</a>, of <a href="https://idealab.io">IdeaLab!</a></td>
+<td style="border:1px height: 7em;"><b>Idea!Match</b> is a matching web app (frontend + backend) of IdeaLab!, which I developed using <a href="https://reactjs.org">React</a> and <a href="https://expressjs.com/">Express</a>.</td>
+<td style="border:1px; height: 6em;"><a href="https://idealabmatch.io">Idea!Match</a>, of <a href="https://idealab.io">IdeaLab!</a></td>
 
 </tr>
 <tr sryle="border-bottom: 2px solid grey">
@@ -67,6 +67,9 @@ I also programmed my <b>old</b> website using <a href="https://flutter.dev">Flut
 </td></tr>
 <tr><td>
 As well as my new React Website <a href="https://valentinahrend.github.io">valentinahrend.com</a>
+</td></tr>
+<tr><td>
+The <a href="https://t.me/fastFileConverterbot">FastFileConverter Bot</a> on Telegram. This bot converts files with over 300 different file formats. I developed this using Heroku and Python.
 </td></tr>
 <tr><td>
 I am also developing non-open-source bots, which cannot be listed here. 🤫
