@@ -78,8 +78,7 @@ I am also developing non-open-source bots, which cannot be listed here. 🤫
 </table>
 
 ### I'm currently working on
-- KreativTest – Creativity Testing Software
-- ZinqBot (upcoming project)
+- Bundeswettbewerb Informatik
 
 ### I'm currently learning
 - <a href="https://www.r-project.org/about.html">R</a>
