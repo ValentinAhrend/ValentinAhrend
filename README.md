@@ -46,7 +46,7 @@ I do love solving problems, handling situations and developing new software ✨
 <tr sryle="border-bottom: 2px solid grey">
 <td style="border:1px; width: 100px"><a href="https://pitch-hisser-5d9.notion.site/Validierung-von-Kreativit-t-durch-KI-424f86d400724c27aeab6bce77ac47ca"><img src="https://raw.githubusercontent.com/ValentinAhrend/ValentinAhrend/main/creative_test.png" width="100px" align="top"></img></a></td>
 <td style="border:1px height: 7em;"><b>KreativTest</b> is a program for testing creativity. I used <a href="https://python.org">Python</a> and <a href="https://flutter.dev">Flutter</a> This project is under development and isn't published as an app.</td>
-<td style="border:1px; height: 6em;"><p align="center"><h1>📌</h1></p></td>
+<td style="border:1px; height: 6em;"><p align="center"><h1>⏳</h1></p></td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +81,7 @@ I am also developing non-open-source bots, which cannot be listed here. 🤫
 - Bundeswettbewerb Informatik
 
 ### I'm currently learning
-- <a href="https://www.r-project.org/about.html">R</a>
+- <a href="https://api.rubyonrails.org/">Ruby on Rails</a>
 
 ### Coding Skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
