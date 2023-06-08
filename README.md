@@ -49,7 +49,7 @@ I do love solving problems, handling situations and developing new software ✨
 <td style="border:1px; height: 6em;"><p align="center"><h1>⏳</h1></p></td>
 </tr>
 <tr sryle="border-bottom: 2px solid grey">
-<td style="border:1px; width: 100px"><a href="https://iurcrowd.de/"><img src="https://iurcrowd.de/wp-content/uploads/2022/10/iur-crowd_logo-v-i.svg" width="100px" align="top"></img></a></td>
+<td style="border:1px; width: 100px"><a href="https://iurcrowd.de/"><img src="https://raw.githubusercontent.com/ValentinAhrend/ValentinAhrend/main/iurcrowd.svg" width="100px" align="top"></img></a></td>
 <td style="border:1px height: 7em;"><b>iur.crowd</b> is a Berlin-based legal tech platform offering research and analytics tools. I'm responsible for the <a href="https://react.dev/">React</a>-based frontend using <a href="https://chakra-ui.com/">ChakraUI</a> and <a href="https://aws.amazon.com/amplify/">Amplify</a>.</td>
 <td style="border:1px; height: 6em;"><a href="https://www.app.iurcrowd.de/">iur.crowd Platform</a>, <a href="https://iurcrowd.de/">iur.crowd Website</a></td>
 </tr>
